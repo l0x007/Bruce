@@ -1,0 +1,3 @@
+[submodule "boards/ESP"]
+	path = boards/ESP
+	url = https://l0x007@github.com/l0x007/
